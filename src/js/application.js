@@ -1,7 +1,7 @@
 import $ from 'jquery'
 import '../css/application.css'
 
-var names = ['Tiger', 'Samuel', 'Leeloo',
+var names = ['JOSEO', 'Samuel', 'Leeloo',
              'Bella', 'Mo', 'Sly',
              'Beezy', 'Maple', 'Rodney',
              'Yonce', 'Reginald', 'Winifred'];
